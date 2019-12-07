@@ -11,6 +11,8 @@ echo 228 > /sys/class/gpio/export
 echo 230 > /sys/class/gpio/export
 echo 229 > /sys/class/gpio/export
 echo 227 > /sys/class/gpio/export
+echo 231 > /sys/class/gpio/export
+
 
 echo out > /sys/class/gpio/gpio218/direction
 echo out > /sys/class/gpio/gpio222/direction
